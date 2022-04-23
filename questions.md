@@ -27,3 +27,14 @@
 13. ### How to apply arguments to the query/mutation?
 
 14. ### What are aliases in GraphQL? What problem can they solve?
+
+
+
+### Useful links
+
+- [Docs](https://graphql.org/learn/)
+- [Full course video](https://youtu.be/ed8SzALpx1Q)
+- [GraphQL vs Rest](https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/)
+- [GraphQL Caching](https://css-tricks.com/working-with-graphql-caching/)
+- [Schema & Types](https://graphql.org/learn/schema/)
+- [Subscriptions](https://www.apollographql.com/docs/react/data/subscriptions/)
